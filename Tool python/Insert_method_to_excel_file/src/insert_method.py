@@ -1,5 +1,4 @@
 import os
-import pandas as pd
 from openpyxl import load_workbook
 
 def manipulate_excel_file(directory, filename):
